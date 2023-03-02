@@ -23,9 +23,9 @@ namespace webapitest.Controllers
         /// </summary>
       //  private IDistributedCache redisCache;
         //微信账号信息
-        private string Appid = "wxd52aade378ba56d8";
-        private string Accesstoken = "xbhp654321";
-        private string sEncodingAESKey = "jWmYm7qr5nMoAUwZRjGtBxmz3KA1tkAj3ykkR6q2B2C";
+        private string Appid = "wxdasdfadsfde378ba56d8";
+        private string Accesstoken = "abcdesr";
+        private string sEncodingAESKey = "jWmYm7qr5nMoAUwZRjGtBxmasdfasdfasfAj3ykkR6q2B2C";
         // public WeChatController(IDistributedCache cache)
         // {
         //    httpHelper = new HttpHelper();
